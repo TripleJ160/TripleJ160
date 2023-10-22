@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently trying to setup a **Portfolio website**
 
-- 📫 How to reach me **johanusa16@gmail.com**
+- 📫 Reach me -> **johanusa16@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
