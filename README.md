@@ -1,5 +1,5 @@
 ![MasterHead](https://66.media.tumblr.com/065a900f9d11bc67b628a3ea72d8f52b/tumblr_piwzvf6QzN1vf8r3co1_1280.gif)
-<h1 align="center">Hi 👋, I'm Johan John Joji</h1>
+<h1 align="center">Johan John Joji</h1>
 <h3 align="center">A passionate on-track Computer Engineer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
