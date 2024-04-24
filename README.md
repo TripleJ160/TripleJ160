@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently trying to setup a **Portfolio website**
-- 📚 Looking into STM32F411 Microcontroller module development to explore embedded systems.
+- 📚 Developing projects on the Spartan-6 FPGA currently.
 
 - 📫 Reach me -> **johanusa16@gmail.com**
 
