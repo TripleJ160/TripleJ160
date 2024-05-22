@@ -38,8 +38,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triplej160&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="triplej160" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triplej160&show_icons=true&locale=en&theme=tokyonight" alt="triplej160" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=triplej160&&theme=tokyonight" alt="triplej160" /></p>
