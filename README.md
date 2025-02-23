@@ -7,9 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triplej160&label=Profile%20views&color=0e75b6&style=flat" alt="triplej160" /> </p>
 
 
-- 🌱 I’m currently trying to setup a **Portfolio website**
-- 📚 Developing projects on the Spartan-6 FPGA currently.
-
+- 🌱 I’m currently developing an **AI-assisted Medication Assistant**
 - 📫 Reach me -> **johanusa16@gmail.com**
 
 
